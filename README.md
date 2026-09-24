@@ -36,7 +36,7 @@ Cell types: <img src="assets/cell-type-epithelial.svg" height="22" width="128" a
 
 *Integrating tissue architecture and cellular morphology with protein expression in 3D. The animation shows unregistered tissue, SpaReg registration, and views across serial sections, ending with a side-by-side comparison of unregistered and registered tissue. The reconstruction combines 21 H&E and 24 immunofluorescence sections from a Human Tumor Atlas Network colorectal cancer specimen.*
 
-## What becomes possible in 3D?
+## SpaReg enables
 
 - **Recover tissue architecture across depth.** Resolve glandular organization and tumor–stromal relationships across serial sections in benign and tumor tissue microenvironments.
 - **Integrate morphology and molecular measurements.** Reconstruct interleaved H&E and multiplexed immunofluorescence sections, or align spatial transcriptomics spots and cells across sections and platforms.
@@ -50,13 +50,7 @@ Cell types: <img src="assets/cell-type-epithelial.svg" height="22" width="128" a
 
 In the PDAC tissue analyzed in our study, individual 2D sections overestimated immune exclusion relative to the 3D reconstruction. Resolving tissue depth also revealed the continuity and tumor proximity of lymphoid aggregates. These analyses use H&E-predicted cell identities, with paired immunofluorescence used to train and evaluate the classifier.
 
-## Across modalities and scales
 
-| Demonstration | Reconstructed tissue |
-| --- | --- |
-| Serial H&E histology | 320 sections of pancreatic tissue containing PDAC |
-| Cross-modal H&E–IF | 21 H&E and 24 IF sections from an HTAN colorectal cancer specimen |
-| Cross-platform spatial transcriptomics | Mouse-brain sections profiled using seven platforms |
 
 ![Cross-platform alignment of mouse-brain sections profiled with seven spatial transcriptomics platforms, colored by platform.](assets/cross-platform-st.png)
 
@@ -68,7 +62,7 @@ Source code has not yet been released. This repository currently presents select
 
 For research inquiries and potential collaborations, contact **Shikhar Uttam** at [shf28@pitt.edu](mailto:shf28@pitt.edu).
 
-**Team:** Rajdeep Pawar, Thomas Jacob, Rebecca Raphael, Elaine Byrnes, Simon Watkins, T. Rinda Soong, Aatur Singhi, and Shikhar Uttam.
+**Authors:** Rajdeep Pawar, Thomas Jacob, Rebecca Raphael, Elaine Byrnes, Simon Watkins, T. Rinda Soong, Aatur Singhi, and Shikhar Uttam.
 
 University of Pittsburgh · UPMC Hillman Cancer Center
 
