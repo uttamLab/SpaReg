@@ -1,8 +1,8 @@
 # SpaReg
 
-### From serial sections to 3D tissue microenvironments
+### Seamless reconstruction of 3D microenvironments from serial sections
 
-**Histology · Multiplexed immunofluorescence · Spatial transcriptomics**
+**Histology · Spatial proteomics · Spatial transcriptomics**
 
 SpaReg reconstructs tissue architecture and cellular organization in three dimensions from serial histology images and spatial molecular data, at the resolution needed to study cells in their tissue context.
 
