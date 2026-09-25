@@ -18,7 +18,7 @@ SpaReg reconstructs tissue architecture and cellular organization in three dimen
 
 ![H&E morphology transitions to predicted cell-type maps at three scales in pancreatic tissue containing PDAC.](assets/pdac-morphology-cell-types.gif)
 
-Pancreatic tissue containing PDAC, reconstructed from **320 serial H&E sections** spanning **25 × 18 × 1.6 mm**, with ~ **280 million H&E-classified cells**
+Pancreatic tissue containing PDAC, reconstructed from **320 serial H&E sections** spanning **25 × 18 × 1.6 mm**, with ~ **280 million H&E-classified cells**.
 ![Cell types: epithelial cells, T cells, B cells, and other cells.](assets/cell-type-legend.svg)
 
 ### Colorectal cancer
