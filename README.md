@@ -4,9 +4,7 @@
 
 **Histology · Multiplexed immunofluorescence · Spatial transcriptomics**
 
-SpaReg reconstructs tissue architecture and cellular organization in three dimensions from serial histology images and spatial molecular data. It uses sparse tissue-boundary geometry to align sections and retrieves corresponding image regions at their original acquisition resolution, retaining the detail needed to study cells in their tissue context.
-
-**Research preview — code coming soon.**
+SpaReg reconstructs tissue architecture and cellular organization in three dimensions from serial histology images and spatial molecular data, retaining the resolution needed to study cells in their tissue context.
 
 ## SpaReg at a glance
 
@@ -28,7 +26,7 @@ Cell types: <img src="assets/cell-type-epithelial.svg" height="22" width="128" a
 
 ![H&E morphology transitions to predicted cell-type maps in colorectal tissue containing CRC.](assets/crc-morphology-cell-types.gif)
 
-*Colorectal tissue containing CRC, reconstructed from 307 serial H&E sections. Cell types are colored as in the PDAC example.*
+*Colorectal tissue containing CRC, reconstructed from 307 serial H&E sections.*
 
 ## Integrating morphology and protein expression in 3D
 
@@ -58,11 +56,10 @@ In the PDAC tissue analyzed in our study, individual 2D sections overestimated i
 
 ## Availability and contact
 
-Source code has not yet been released. This repository currently presents selected reconstructions and study findings. Follow the repository for release announcements.
+Research preview, code coming soon. Follow the repository for release announcements.
 
-For research inquiries and potential collaborations, contact **Shikhar Uttam** at [shf28@pitt.edu](mailto:shf28@pitt.edu).
 
-**Authors:** Rajdeep Pawar, Thomas Jacob, Rebecca Raphael, Elaine Byrnes, Simon Watkins, T. Rinda Soong, Aatur Singhi, and Shikhar Uttam.
+**Authors:** Rajdeep Pawar, Thomas Jacob, Rebecca Raphael, Elaine Byrnes, Simon Watkins, T. Rinda Soong, Aatur Singhi, and Shikhar Uttam [shf28@pitt.edu](mailto:shf28@pitt.edu).
 
 University of Pittsburgh · UPMC Hillman Cancer Center
 
