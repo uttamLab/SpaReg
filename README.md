@@ -20,7 +20,7 @@ SpaReg reconstructs tissue architecture and cellular organization in three dimen
 
 *Pancreatic tissue containing PDAC, reconstructed from 320 serial H&E sections.*
 
-Cell types: <img src="assets/cell-type-epithelial.svg" height="22" width="128" alt="Epithelial cells"> · <img src="assets/cell-type-t.svg" height="22" width="58" alt="T cells"> · <img src="assets/cell-type-b.svg" height="22" width="60" alt="B cells"> · <img src="assets/cell-type-other.svg" height="22" width="96" alt="Other cells">.
+![Cell types: epithelial cells, T cells, B cells, and other cells.](assets/cell-type-legend.svg)
 
 ### Colorectal cancer
 
@@ -49,6 +49,8 @@ Cell types: <img src="assets/cell-type-epithelial.svg" height="22" width="128" a
 In the PDAC tissue analyzed in our study, individual 2D sections overestimated immune exclusion relative to the 3D reconstruction. Resolving tissue depth also revealed the continuity and tumor proximity of lymphoid aggregates. These analyses use H&E-predicted cell identities, with paired immunofluorescence used to train and evaluate the classifier.
 
 
+
+## Reconstructing 3D tissue architecture across spatial transcriptomics platforms
 
 ![Cross-platform alignment of mouse-brain sections profiled with seven spatial transcriptomics platforms, colored by platform.](assets/cross-platform-st.png)
 
