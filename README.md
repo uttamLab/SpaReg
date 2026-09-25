@@ -4,7 +4,7 @@
 
 **Histology · Multiplexed immunofluorescence · Spatial transcriptomics**
 
-SpaReg reconstructs tissue architecture and cellular organization in three dimensions from serial histology images and spatial molecular data, retaining the resolution needed to study cells in their tissue context.
+SpaReg reconstructs tissue architecture and cellular organization in three dimensions from serial histology images and spatial molecular data, at the resolution needed to study cells in their tissue context.
 
 ## SpaReg at a glance
 
