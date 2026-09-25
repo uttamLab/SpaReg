@@ -44,7 +44,7 @@ Cell types: <img src="assets/cell-type-epithelial.svg" height="22" width="128" a
 
 [![H&E-predicted cell distributions and annotated lymphoid aggregates in reconstructed pancreatic tissue containing PDAC.](assets/pdac-poster.jpg)](assets/pdac-cell-organization.mp4)
 
-*From H&E morphology to predicted cell-type distributions and the 3D organization of lymphoid aggregates in pancreatic ductal adenocarcinoma (PDAC). [Watch the demonstration](assets/pdac-cell-organization.mp4).*
+*From H&E morphology to predicted cell-type distributions and the 3D organization of lymphoid aggregates in pancreatic ductal adenocarcinoma (PDAC).*
 
 In the PDAC tissue analyzed in our study, individual 2D sections overestimated immune exclusion relative to the 3D reconstruction. Resolving tissue depth also revealed the continuity and tumor proximity of lymphoid aggregates. These analyses use H&E-predicted cell identities, with paired immunofluorescence used to train and evaluate the classifier.
 
@@ -55,8 +55,7 @@ In the PDAC tissue analyzed in our study, individual 2D sections overestimated i
 *Cross-platform alignment of mouse-brain sections profiled using CosMx, Xenium 5K, Xenium, STARmap+, MERFISH, Visium HD, and Visium. Sections are colored by platform.*
 
 ## Availability and contact
-
-Research preview, code coming soon. Follow the repository for release announcements.
+**Code coming soon**. Follow the repository for release announcements.
 
 
 **Authors:** Rajdeep Pawar, Thomas Jacob, Rebecca Raphael, Elaine Byrnes, Simon Watkins, T. Rinda Soong, Aatur Singhi, and Shikhar Uttam [shf28@pitt.edu](mailto:shf28@pitt.edu).
