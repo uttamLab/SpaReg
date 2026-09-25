@@ -36,9 +36,9 @@ Cell types: <img src="assets/cell-type-epithelial.svg" height="22" width="128" a
 
 ## SpaReg enables
 
-- **Recover tissue architecture across depth.** Resolve glandular organization and tumor–stromal relationships across serial sections in benign and tumor tissue microenvironments.
-- **Integrate morphology and molecular measurements.** Reconstruct interleaved H&E and multiplexed immunofluorescence sections, or align spatial transcriptomics spots and cells across sections and platforms.
-- **Study cellular neighborhoods beyond a single plane.** Map H&E-predicted epithelial, T, and B cell distributions and characterize lymphoid aggregate continuity and tumor proximity.
+- **Recovery of tissue architecture across depth.** Resolve glandular organization and tumor–stromal relationships across serial sections in benign and tumor tissue microenvironments.
+- **Integration of morphology and molecular measurements.** Reconstruct interleaved H&E and multiplexed immunofluorescence sections, or align spatial transcriptomics spots and cells across sections and platforms.
+- **Study of cellular neighborhoods beyond a single plane.** Map H&E-predicted epithelial, T, and B cell distributions and characterize lymphoid aggregate continuity and tumor proximity.
 
 ## A biological view of the reconstruction
 
