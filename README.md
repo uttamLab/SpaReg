@@ -58,9 +58,6 @@ In the PDAC tissue analyzed in our study, individual 2D sections overestimated i
 ## Availability and contact
 **Code coming soon**. Follow the repository for release announcements.
 
+**BioRxiv preprint:** [link](https://www.biorxiv.org/content/10.64898/2026.09.28.754175v1)
 
-**Authors:** Rajdeep Pawar, Thomas Jacob, Rebecca Raphael, Elaine Byrnes, Simon Watkins, T. Rinda Soong, Aatur Singhi, and Shikhar Uttam [shf28@pitt.edu](mailto:shf28@pitt.edu).
-
-University of Pittsburgh · UPMC Hillman Cancer Center
-
-<!-- Add a verified public preprint link and citation here when available. -->
+![BioRxiv preprint](assets/qrcode.png)
